@@ -140,7 +140,7 @@ def reconnaissance():
 
 
 def redteam():
-        #PRESENTATION FAIRE DROOPSCAN POUR MONTRER LES ENUMRATIONS
+        #Fonction qui va regrouper les outils utilisés pour le pentest blackbox
         try:
             with tqdm(total=2, desc="REDTEAM") as pbar:
                 # Scan CMS
